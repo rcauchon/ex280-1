@@ -8,9 +8,6 @@ metadata:
   name: quotes
   namespace: network-debug
 spec:
-  clusterIP: 10.217.4.139
-  clusterIPs:
-  - 10.217.4.139
   internalTrafficPolicy: Cluster
   ipFamilies:
   - IPv4

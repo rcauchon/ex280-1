@@ -8,7 +8,6 @@ metadata:
   name: quotes
   namespace: network-debug
 spec:
-  host: quotes-network-debug.apps-crc.testing
   port:
     targetPort: 8000-tcp
   to:
