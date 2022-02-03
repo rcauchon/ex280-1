@@ -2,7 +2,7 @@
 Techzone.com
  CN= itzroks-6630025ezu-jngiqb.us-south.containers.appdomain.cloud
 
-# Generate a Certificate Authority key (.key) 2048
+## Generate a Certificate Authority key (.key) 2048
 openssl genrsa -des3 -out myCA.key 2048 
  
 # Sign the CA certificate authority (.key)
