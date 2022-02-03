@@ -1,3 +1,5 @@
+This is extract Lab 6 from Redhat EX280 documentation
+
 1. As the admin user, label two nodes with the tier label. Give the master01 node the label
 of tier=gold and the master02 node the label of tier=silver.
                 or
